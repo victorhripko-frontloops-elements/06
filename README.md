@@ -1,21 +1,3 @@
-# Template for FrontLoops [Elements] challenge
+# 3d card
 
-Install all dependencies
-```bash
-npm i
-```
-
-For start watching all files use:
-```bash
-npm run start
-```
-
-then open in browser
-```bash
-http://localhost:1234/
-```
-
-For build all files use:
-```bash
-npm run build
-```
+Create a card which rotates in "3d" based on the mouse cursor position on the screen.
